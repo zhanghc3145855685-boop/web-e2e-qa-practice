@@ -1,0 +1,20 @@
+---
+description: 使用 py 命令运行 Python 文件
+globs: **/*.py
+alwaysApply: false
+---
+
+# Python 执行方式
+
+在本项目中运行 Python 文件时，使用 Windows 的 `py` 启动器，不要使用 `python` 或 `python3`。
+
+```bash
+# ✅ 正确
+py script.py
+py -m pytest
+py -m pip install package
+
+# ❌ 避免
+python script.py
+python3 script.py
+```
