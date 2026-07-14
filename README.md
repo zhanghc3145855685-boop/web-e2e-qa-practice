@@ -131,13 +131,7 @@ py -m pytest
 
 ---
 
-## 7. 简历可写一行（可按实际删减）
-
-> 独立完成 Web 端到端软件测试练手项目：基于 Sauce Demo 编写测试计划与用例并执行缺陷记录；使用 Postman / Excel 完成 Restful-Booker API 验证；使用 Playwright + pytest 实现冒烟自动化，通过 GitHub 管理文档与报告。
-
----
-
-## 8. 声明
+## 7. 声明
 
 - 本项目基于 **公开演示站点**（Sauce Demo、Restful-Booker），仅用于测试流程与工具练习。  
 - 不虚构商业背景；演示站行为可能变更，遇失败请重试并对照最新页面/接口。  
